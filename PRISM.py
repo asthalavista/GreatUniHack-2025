@@ -7,7 +7,7 @@ URL = "www.prism-challenge.com"
 PORT = 8082
 
 # Please do NOT share this information anywhere, unless you want your team to be cooked.
-TEAM_API_CODE = "input your api code here"
+TEAM_API_CODE = "f59f5365650d93005b228f197ca2818e"
 # TEAM_API_CODE = "d3e63892502a2bf7839f3dc7b0f26801"
 
 
